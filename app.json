@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://anshika:<Ashish21>@anshika.7g91kbu.mongodb.net/?retryWrites=true&w=majority&appName=Anshika",
+        "value": "mongodb+srv://anshika:Ashish21@anshika.7g91kbu.mongodb.net/?retryWrites=true&w=majority&appName=Anshika",
         "required": true
       },
       "OWNER_ID": {
