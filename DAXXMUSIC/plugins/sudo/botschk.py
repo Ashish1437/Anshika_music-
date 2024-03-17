@@ -14,7 +14,7 @@ from DAXXMUSIC.core.userbot import *
 from DAXXMUSIC import app
 
 
-BOT_LIST = ["DAISY_12_BOT", "GIT_WIZ_BOT"]
+BOT_LIST = ["Anshika_Musicc_Bot", "GIT_WIZ_BOT"]
 
 
 
